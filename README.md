@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohau Matthews
 - 👀 I’m interested in javascript
-- 💞️ I’m looking to collaborate on java, kotlin, react, and react native projects
+- 💞️ I’m looking to collaborate on java, kotlin, react, and react native, Flutter, Laravel, and ASP.NET CORE projects
 - 📫 Contact me on twitter at @matthewmodika
 
 <!---
