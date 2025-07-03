@@ -48,19 +48,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=momatstudio&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momatstudio&theme=radical" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momatstudio&layout=compact&theme=radical" height="150"/>
-</p>
-
----
-
 ### 📫 Let’s Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mohau-maphalle-58236722a)  
